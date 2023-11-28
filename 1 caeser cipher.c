@@ -2,7 +2,7 @@
 #include<string.h>
 int main()
 {
-	int k=3,i;
+	int k,i;
 	char in[50],ci[50];
 	printf("Enter Key value : ");
 	scanf("%d",&k);
