@@ -27,21 +27,21 @@ int main() {
 }
 
 void generateSubKeys(const uint8_t* key, uint8_t* subKey1, uint8_t* subKey2) {
-    // Subkey generation logic goes here
+ 
 }
 
 void encryptSDES(const uint8_t* plaintext, const uint8_t* key, const uint8_t* counter, uint8_t* ciphertext) {
-    // S-DES encryption in CTR mode logic goes here
+   
 }
 
 void decryptSDES(const uint8_t* ciphertext, const uint8_t* key, const uint8_t* counter, uint8_t* decryptedText) {
-    // S-DES decryption in CTR mode logic goes here
+  
 }
 
 void xorBlock(const uint8_t* input1, const uint8_t* input2, uint8_t* result) {
-    // XOR operation on two blocks
+  
 }
 
 void printBinary(const char* label, const uint8_t* data, size_t length) {
-    // Print binary data
+
 }
